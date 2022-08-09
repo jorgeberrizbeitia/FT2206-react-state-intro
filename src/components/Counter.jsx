@@ -54,15 +54,6 @@ function Counter() {
       <p>El usuario escribe: {message} </p>
 
       <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
 
     </div>
   )
